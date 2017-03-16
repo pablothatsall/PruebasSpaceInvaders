@@ -1,1 +1,4 @@
 Aqui estoy añadiendo un documento de texto dentro de una carpeta, estando en la rama feature
+
+
+# Añadimos funcionalidad 2
